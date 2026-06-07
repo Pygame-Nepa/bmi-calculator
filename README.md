@@ -14,4 +14,13 @@ A clean, simple, and responsive website to calculate Body Mass Index (BMI). Buil
 * **CSS3:** 
 * **JavaScript:**
 
+
+## Screen Shot:
+
+<img width="720" height="1160" alt="17808292913582557925722769886552" src="https://github.com/user-attachments/assets/f87ca855-c365-4876-9965-e58f0ea5e033" />
+
+
+<img width="720" height="1160" alt="17808292913582557925722769886552" src="https://github.com/user-attachments/assets/8224d4d8-72aa-45a1-bc6a-6860b3db47e5" />
+
 ## Made By:Arpan Poudel.
+
