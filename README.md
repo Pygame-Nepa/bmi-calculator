@@ -1,6 +1,6 @@
 # BMI Calculator
 
-A clean, simple, and responsive website to calculate Body Mass Index (BMI). Built using web technologies, this tool allows users to input their height and weight to get their BMI.
+A clean, simple, and responsive website to calculate Body Mass Index (BMI). Built using html css js, this tool allows users to input their height and weight to get their BMI.
 
 ## Features
 
